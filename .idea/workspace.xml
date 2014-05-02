@@ -26,9 +26,9 @@
       <file leaf-file-name="generator.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/generator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="15" selection-start="1321" selection-end="1321" vertical-scroll-proportion="0.5089514" vertical-offset="553" max-vertical-offset="944">
+            <state line="15" column="41" selection-start="664" selection-end="664" vertical-scroll-proportion="-0.852349" vertical-offset="748" max-vertical-offset="1344">
               <folding>
-                <element signature="e#27#66#0" expanded="true" />
+                <element signature="e#670#709#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -37,19 +37,16 @@
       <file leaf-file-name="hello.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/posts/hello.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="29" selection-start="90" selection-end="90" vertical-scroll-proportion="-2.3703704" vertical-offset="0" max-vertical-offset="160">
+            <state line="4" column="29" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="160">
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="6" selection-start="121" selection-end="121" vertical-scroll-proportion="-4.48" vertical-offset="0" max-vertical-offset="256">
+            <state line="16" column="15" selection-start="686" selection-end="686" vertical-scroll-proportion="-10.24" vertical-offset="0" max-vertical-offset="512">
               <folding />
             </state>
           </provider>
@@ -58,7 +55,7 @@
       <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/templates/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="18" selection-start="369" selection-end="369" vertical-scroll-proportion="-8.96" vertical-offset="0" max-vertical-offset="368">
+            <state line="6" column="44" selection-start="256" selection-end="256" vertical-scroll-proportion="-3.84" vertical-offset="0" max-vertical-offset="624">
               <folding />
             </state>
           </provider>
@@ -74,9 +71,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/blog/templates/base.html" />
         <option value="$PROJECT_DIR$/blog/posts/hello.md" />
         <option value="$PROJECT_DIR$/blog/templates/post.html" />
+        <option value="$PROJECT_DIR$/blog/templates/base.html" />
         <option value="$PROJECT_DIR$/blog/generator.py" />
       </list>
     </option>
@@ -375,9 +372,39 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog/generator.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="15" selection-start="1321" selection-end="1321" vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="944">
+          <folding>
+            <element signature="e#670#709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/posts/hello.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="29" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="160">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="6" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="256">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="368">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="47" selection-start="899" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="896">
           <folding>
-            <element signature="e#27#66#0" expanded="true" />
+            <element signature="e#670#709#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -407,7 +434,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="14" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="208" max-vertical-offset="784">
           <folding>
-            <element signature="e#27#66#0" expanded="true" />
+            <element signature="e#670#709#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -430,7 +457,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="23" selection-start="710" selection-end="710" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
           <folding>
-            <element signature="e#27#66#0" expanded="true" />
+            <element signature="e#670#709#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -453,7 +480,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="17" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="288">
           <folding>
-            <element signature="e#27#66#0" expanded="true" />
+            <element signature="e#670#709#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -474,7 +501,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/posts/hello.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="29" selection-start="90" selection-end="90" vertical-scroll-proportion="-2.3703704" vertical-offset="0" max-vertical-offset="160">
+        <state line="4" column="29" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="160">
           <folding />
         </state>
       </provider>
@@ -482,25 +509,25 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/blog/templates/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="6" selection-start="121" selection-end="121" vertical-scroll-proportion="-4.48" vertical-offset="0" max-vertical-offset="256">
+        <state line="6" column="44" selection-start="256" selection-end="256" vertical-scroll-proportion="-3.84" vertical-offset="0" max-vertical-offset="624">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/post.html">
+    <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="369" selection-end="369" vertical-scroll-proportion="-8.96" vertical-offset="0" max-vertical-offset="368">
+        <state line="16" column="15" selection-start="686" selection-end="686" vertical-scroll-proportion="-10.24" vertical-offset="0" max-vertical-offset="512">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="15" selection-start="1321" selection-end="1321" vertical-scroll-proportion="0.5089514" vertical-offset="553" max-vertical-offset="944">
+        <state line="15" column="41" selection-start="664" selection-end="664" vertical-scroll-proportion="-0.852349" vertical-offset="748" max-vertical-offset="1344">
           <folding>
-            <element signature="e#27#66#0" expanded="true" />
+            <element signature="e#670#709#0" expanded="true" />
           </folding>
         </state>
       </provider>

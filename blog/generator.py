@@ -1,4 +1,21 @@
-__author__ = 'naumanahmad'
+"""
+Copyright 2014 Nauman Ahmad
+
+This file is part of the Rocket library.
+
+Rocket is free software: you can redistribute it and/or
+modify it under the terms of the GNU General Public License as published by the
+Free Software Foundation, either version 3 of the License, or (at your option) any
+later version.
+
+Rocket is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with Rocket.
+If not, see http://www.gnu.org/licenses/.
+"""
+
 from flask import Flask,render_template
 import markdown,os,yaml
 from werkzeug.utils import cached_property
@@ -12,6 +29,10 @@ app.secret_key = 'f8ssdf00sas#$2233500966*@!'
 class Post(object):
 
     def __init__(self,path):
+        """
+        The *path* param takes in the path of the blog post
+        The _init_metadata() method is also called to store all the meta-data attributes into the class's __dict__
+        """
         self.path = path
         self._init_metadata()
 
@@ -38,6 +59,10 @@ class Post(object):
             self.__dict__.update(yaml.load(content))
 
 def format_date(value,format = '%B %d, %Y'):
+    """
+    This functions turns the date from the set meta-data format into a different format
+    The *format* param can be changed to change the format of the generated date
+    """
     return value.strftime(format)
 
 @app.route('/')
