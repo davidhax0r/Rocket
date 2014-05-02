@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block head %}
+<title>{{ post.title }} {% if post.subtitle %}: {{ post.subtitle }} {% endif %}</title>
+{% endblock %}
+{% block content %}
+
+<div id="header">
+    <h1>{{ post.title }}</h1>
+    {% if post.subtitle %}
+    <h2>{{ post.subtitle }}</h2>
+    {% endif %}
+    <h3 id="date">{{ format_date(post.date) }}</h3>
+</div>
+
+<div id="content">
+    {{ post.html|safe }}
+</div>
+{% endblock %}
